@@ -16,8 +16,9 @@
         <para>Note 2.1</para>
       </step>
       <step>
+        <eqnotavail>Don't use! (2.2)</eqnotavail>
         <para>Note 2.2</para>
-        <eqnotavail>Don't use!</eqnotavail>
+        <eqnotavail>Test mixed(2.2)</eqnotavail>
       </step>
     </procs>
   </entry>
@@ -37,7 +38,7 @@
     <procs>
       <pmcspara>
         <para>Note 4.1</para>
-        <eqnotavail>Don't use!</eqnotavail>
+        <eqnotavail>Don't use! (4.1)</eqnotavail>
       </pmcspara>
       <pmcspara>
         <para>Note 4.2</para>
