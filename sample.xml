@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<pmcs-table>
+  <entry>
+    <no>1</no>
+    <procs>
+      <step>
+        <para>Note 1</para>
+      </step>
+    </procs>
+  </entry>
+
+  <entry>
+    <no>2</no>
+    <procs>
+      <step>
+        <para>Note 2.1</para>
+      </step>
+      <step>
+        <para>Note 2.2</para>
+        <eqnotavail>Don't use!</eqnotavail>
+      </step>
+    </procs>
+  </entry>
+
+
+  <entry>
+    <no>3</no>
+    <procs>
+      <pmcspara>
+        <para>Note 3</para>
+      </pmcspara>
+    </procs>
+  </entry>
+
+  <entry>
+    <no>4</no>
+    <procs>
+      <pmcspara>
+        <para>Note 4.1</para>
+        <eqnotavail>Don't use!</eqnotavail>
+      </pmcspara>
+      <pmcspara>
+        <para>Note 4.2</para>
+      </pmcspara>
+    </procs>
+  </entry>
+
+</pmcs-table>
