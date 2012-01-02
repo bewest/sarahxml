@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="pmcs_list">
+    <item>Housing</item>
+    <item>Foo</item>
+    <item>Bar</item>
+    <item>Qux</item>
+  </string-array>
+</resources>

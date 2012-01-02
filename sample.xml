@@ -2,6 +2,7 @@
 <pmcs-table>
   <entry>
     <no>1</no>
+    <checked>Housing</checked>
     <procs>
       <step>
         <para>Note 1</para>
@@ -11,6 +12,7 @@
 
   <entry>
     <no>2</no>
+    <checked>Foo</checked>
     <procs>
       <step>
         <para>Note 2.1</para>
@@ -26,6 +28,7 @@
 
   <entry>
     <no>3</no>
+    <checked>Bar</checked>
     <procs>
       <pmcspara>
         <para>Note 3</para>
@@ -35,6 +38,7 @@
 
   <entry>
     <no>4</no>
+    <checked>Qux</checked>
     <procs>
       <pmcspara>
         <para>Note 4.1</para>
